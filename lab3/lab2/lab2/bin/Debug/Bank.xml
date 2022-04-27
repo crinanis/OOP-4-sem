@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<BankInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Account>
+    <BankAccount>
+      <Opening_date>2022-03-18T15:40:39</Opening_date>
+      <Deposit_type>Чековый вклад</Deposit_type>
+      <Balance>1</Balance>
+      <Account_number>3267274</Account_number>
+      <Result>Владелец: Козловский, Баланс: 1рублей, Тип депозита: Чековый вклад, Номер аккаунта: 3267274 + смс-оповещение + интернет-банкинг, прошло валидацию</Result>
+      <Owner>
+        <Surname>Козловский</Surname>
+        <Name>Егор</Name>
+        <Patronymic>Васильевич</Patronymic>
+        <PassportNum>1032764</PassportNum>
+      </Owner>
+    </BankAccount>
+    <BankAccount>
+      <Opening_date>2022-03-18T15:40:39</Opening_date>
+      <Deposit_type>Банковский вклад</Deposit_type>
+      <Balance>1</Balance>
+      <Account_number>326324872</Account_number>
+      <Result>Владелец: Шелест, Баланс: 1рублей, Тип депозита: Банковский вклад, Номер аккаунта: 326324872 + смс-оповещение + еженедельная выписка по счёту, прошло валидацию</Result>
+      <Owner>
+        <Surname>Шелест</Surname>
+        <Name>Анна</Name>
+        <Patronymic>Николаевна</Patronymic>
+        <PassportNum>439572</PassportNum>
+      </Owner>
+    </BankAccount>
+    <BankAccount>
+      <Opening_date>2022-03-01T15:40:39</Opening_date>
+      <Deposit_type>Банковский вклад</Deposit_type>
+      <Balance>1</Balance>
+      <Account_number>326324872</Account_number>
+      <Result>Владелец: Буданова, Баланс: 1рублей, Тип депозита: Банковский вклад, Номер аккаунта: 326324872 + смс-оповещение + еженедельная выписка по счёту, прошло валидацию</Result>
+      <Owner>
+        <Surname>Буданова</Surname>
+        <Name>Ксения</Name>
+        <Patronymic>Андреевна</Patronymic>
+        <PassportNum>3188834</PassportNum>
+      </Owner>
+    </BankAccount>
+    <BankAccount>
+      <Opening_date>2022-03-04T15:40:39</Opening_date>
+      <Deposit_type>Долгосрочный вклад</Deposit_type>
+      <Balance>1</Balance>
+      <Account_number>34985</Account_number>
+      <Result>Владелец: Хивук, Баланс: 1рублей, Тип депозита: Долгосрочный вклад, Номер аккаунта: 34985 + смс-оповещение + интернет-банкинг + еженедельная выписка по счёту, прошло валидацию</Result>
+      <Owner>
+        <Surname>Хивук</Surname>
+        <Name>Эмилия</Name>
+        <Patronymic>Александровна</Patronymic>
+        <PassportNum>456373</PassportNum>
+      </Owner>
+    </BankAccount>
+  </Account>
+  <Owner />
+</BankInfo>
