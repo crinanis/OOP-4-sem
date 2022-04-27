@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<BankInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Account>
+    <BankAccount>
+      <Opening_date>2022-03-05T15:34:54.9389807+03:00</Opening_date>
+      <Deposit_type>Долгосрочный вклад</Deposit_type>
+      <Balance>1</Balance>
+      <Account_number>6544</Account_number>
+      <Result>Владелец: апвапв, Баланс: 1рублей, Тип депозита: Долгосрочный вклад, Номер аккаунта: 6544 + смс-оповещение + еженедельная выписка по счёту</Result>
+      <Owner>
+        <Surname>апвапв</Surname>
+        <Name>ывамыва</Name>
+        <Patronymic>аукпк</Patronymic>
+        <PassportNum>10</PassportNum>
+        <Apartment>0</Apartment>
+      </Owner>
+    </BankAccount>
+  </Account>
+  <Owner>
+    <Apartment>0</Apartment>
+  </Owner>
+</BankInfo>
