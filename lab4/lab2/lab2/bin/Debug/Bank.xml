@@ -1,0 +1,97 @@
+<?xml version="1.0"?>
+<BankInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Account>
+    <BankAccount>
+      <Opening_date>2022-03-19T15:28:48.2980615+03:00</Opening_date>
+      <Deposit_type>Долгосрочный вклад</Deposit_type>
+      <Balance>75</Balance>
+      <Account_number>763487348</Account_number>
+      <Result>Владелец: апм, Баланс: 75рублей, Тип депозита: Долгосрочный вклад, Номер аккаунта: 763487348 + смс-оповещение</Result>
+      <Owner>
+        <Surname>апм</Surname>
+        <Name>куаукп</Name>
+        <Patronymic>укпукпук</Patronymic>
+        <PassportNum>10324</PassportNum>
+      </Owner>
+    </BankAccount>
+    <BankAccount>
+      <Opening_date>2022-03-19T15:28:48.2980615+03:00</Opening_date>
+      <Deposit_type>Чековый вклад</Deposit_type>
+      <Balance>27</Balance>
+      <Account_number>86348734</Account_number>
+      <Result>Владелец: мцукацуа, Баланс: 27рублей, Тип депозита: Чековый вклад, Номер аккаунта: 86348734 + смс-оповещение + еженедельная выписка по счёту</Result>
+      <Owner>
+        <Surname>мцукацуа</Surname>
+        <Name>куаукпыва</Name>
+        <Patronymic>укпукпук</Patronymic>
+        <PassportNum>103244</PassportNum>
+      </Owner>
+    </BankAccount>
+    <BankAccount>
+      <Opening_date>2022-03-20T15:28:48</Opening_date>
+      <Deposit_type>Чековый вклад</Deposit_type>
+      <Balance>27</Balance>
+      <Account_number>86348734</Account_number>
+      <Result>Владелец: лолрукацуа, Баланс: 27рублей, Тип депозита: Чековый вклад, Номер аккаунта: 86348734 + смс-оповещение + еженедельная выписка по счёту</Result>
+      <Owner>
+        <Surname>лолрукацуа</Surname>
+        <Name>ттукпыва</Name>
+        <Patronymic>пипукпук</Patronymic>
+        <PassportNum>103244</PassportNum>
+      </Owner>
+    </BankAccount>
+    <BankAccount>
+      <Opening_date>2022-03-15T15:28:48</Opening_date>
+      <Deposit_type>Условный вклад</Deposit_type>
+      <Balance>27</Balance>
+      <Account_number>99348734</Account_number>
+      <Result>Владелец: ьььрукацуа, Баланс: 27рублей, Тип депозита: Условный вклад, Номер аккаунта: 99348734 + смс-оповещение + интернет-банкинг + еженедельная выписка по счёту</Result>
+      <Owner>
+        <Surname>ьььрукацуа</Surname>
+        <Name>ттукпыва</Name>
+        <Patronymic>пипукпук</Patronymic>
+        <PassportNum>103244</PassportNum>
+      </Owner>
+    </BankAccount>
+    <BankAccount>
+      <Opening_date>2022-03-26T12:58:39.8860783+03:00</Opening_date>
+      <Deposit_type>Банковский вклад</Deposit_type>
+      <Balance>1</Balance>
+      <Account_number>234234</Account_number>
+      <Result>Владелец: Буданова, Баланс: 1рублей, Тип депозита: Банковский вклад, Номер аккаунта: 234234 + интернет-банкинг</Result>
+      <Owner>
+        <Surname>Буданова</Surname>
+        <Name>Ксения</Name>
+        <Patronymic>Андреевна</Patronymic>
+        <PassportNum>246327</PassportNum>
+      </Owner>
+    </BankAccount>
+    <BankAccount>
+      <Opening_date>2022-03-26T13:22:47.7684588+03:00</Opening_date>
+      <Deposit_type>Условный вклад</Deposit_type>
+      <Balance>1</Balance>
+      <Account_number>3424</Account_number>
+      <Result>Владелец: xbr, Баланс: 1рублей, Тип депозита: Условный вклад, Номер аккаунта: 3424</Result>
+      <Owner>
+        <Surname>xbr</Surname>
+        <Name>erg</Name>
+        <Patronymic>earfaerf</Patronymic>
+        <PassportNum>12345</PassportNum>
+      </Owner>
+    </BankAccount>
+    <BankAccount>
+      <Opening_date>2022-04-02T13:07:55.6045996+03:00</Opening_date>
+      <Deposit_type>Долгосрочный вклад</Deposit_type>
+      <Balance>16</Balance>
+      <Account_number>837642</Account_number>
+      <Result>Владелец: Миреева, Баланс: 16рублей, Тип депозита: Долгосрочный вклад, Номер аккаунта: 837642</Result>
+      <Owner>
+        <Surname>Миреева</Surname>
+        <Name>Антонина</Name>
+        <Patronymic>Михайловна</Patronymic>
+        <PassportNum>10345</PassportNum>
+      </Owner>
+    </BankAccount>
+  </Account>
+  <Owner />
+</BankInfo>
